@@ -81,5 +81,3 @@ Main settings (see `hn_tools/radiomics_utils.py`):
 If you use this code, please cite: .
 
 ## License
-
-*(add a license, e.g. MIT, before publishing)*
