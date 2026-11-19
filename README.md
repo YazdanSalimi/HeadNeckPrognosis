@@ -78,7 +78,7 @@ Main settings (see `hn_tools/radiomics_utils.py`):
 
 ## Citation
 
-If you use this code, please cite: *(add your paper here)*.
+If you use this code, please cite: .
 
 ## License
 
